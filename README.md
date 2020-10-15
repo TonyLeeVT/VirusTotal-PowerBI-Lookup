@@ -3,7 +3,7 @@ A Power BI Report that accepts your VT API Key and a resource (ex:  hash) to que
 
 ## Background
 This Power BI Template is based on the following blog article:  
-Coming soon...
+http://securitysynapse.blogspot.com/2020/10/virustotal-lookups-in-microsoft-power.html
 
 
 ## Prerequisites
