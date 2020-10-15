@@ -1,5 +1,5 @@
 # VirusTotal-PowerBI-Lookup
-A Power BI Report that accepts your VT API Key and a resource (ex:  hash) to query
+A Power BI Report that accepts your VT API Key and a resource (ex:  hash) to query. Queries VT using the VT API, parses the nested JSON response, and populates the report.
 
 ## Background
 This Power BI Template is based on the following blog article:  
@@ -29,4 +29,4 @@ Coming soon...
    Ex:  "response_code": 0 vs. "response_code": 1
 
 ## Screenshots
-![Dashboard](https://github.com/TonyLeeVT/)
+![Dashboard](https://github.com/TonyLeeVT/VirusTotal-PowerBI-Lookup/blob/main/screenshots/VT-BI-Lookup.png)
