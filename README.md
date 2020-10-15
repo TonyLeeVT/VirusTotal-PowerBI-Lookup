@@ -21,7 +21,7 @@ Coming soon...
 6. To update the hash:  Home > Transform Data > Edit parameters
 
 
-## Possible limitations
+## Possible limitations and opportunities to help!!
 1. Unable to modify hash parameter from report / dashboard to refresh data feed with new data natively from Power BI
 2. Drill through lookup using hash from previous report may be limited due to parameter update issue
 3. Potential for AV column rename to fail due to hard coded AV vendor names in power query
